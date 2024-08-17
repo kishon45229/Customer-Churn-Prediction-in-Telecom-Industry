@@ -6,7 +6,7 @@ This project involves a comprehensive data analysis process divided into five ma
 
 ## [1. Data Understanding](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/ff93eeddcf2abba7412b7f4d32e1b1d6b6cef541/Understanding_of_Data.ipynb):
 
-This section involves gathering data from reliable sources and exploring it to get an initial understanding. For this project we took [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) dataset from Kaggle. The steps include calculating basic summarization statistics, visualizing the data, and identifying data problems such as outliers, missing data, and duplicate records.
+This section involves gathering data from reliable sources and exploring it to get an initial understanding. For this project, we took the [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) dataset from Kaggle. The steps include calculating basic summarization statistics, visualizing the data, and identifying data problems such as outliers, missing data, and duplicate records.
 
 - Responsible Collaborator: [F. Mulhima](https://github.com/Mulhima101) 
 - Contact: itbin-2110-0063@horizoncampus.edu.lk
