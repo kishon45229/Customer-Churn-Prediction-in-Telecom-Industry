@@ -4,7 +4,7 @@ Customer retention is critical for service providers. Predicting churn allows co
 
 This project involves a comprehensive data analysis process divided into five main sections. Each section is managed by a specific collaborator responsible for its successful execution. Below is a detailed explanation of each section along with the respective collaborator.
 
-## 1. Data Understanding:
+## [1. Data Understanding](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/ff93eeddcf2abba7412b7f4d32e1b1d6b6cef541/Understanding_of_Data.ipynb):
 
 This section involves gathering data from reliable sources and exploring it to get an initial understanding. For this project we took [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) dataset from Kaggle. The steps include calculating basic summarization statistics, visualizing the data, and identifying data problems such as outliers, missing data, and duplicate records.
 
