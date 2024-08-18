@@ -34,6 +34,9 @@ This section presents the findings of the analysis and validates the performance
 
 - Responsible Collaborator: [G. Kishon](https://github.com/kishon45229)
 - Contact: itbin-2110-0054@horizoncampus.edu.lk
+
+## Deployment:
+We have deployed our project as ChurnX on Streamlit Cloud, where you can interact with the application and explore its features. Access it [here]().
    
 ## Contributing:
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
