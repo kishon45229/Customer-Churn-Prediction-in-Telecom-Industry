@@ -178,7 +178,7 @@ def main():
     st.write("In this project, we used the [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) dataset from Kaggle, a comprehensive dataset containing information about customer demographics, account information, and services. By applying various machine learning models, we predicted customer churn, helping companies identify and address the factors leading to churn. This approach not only aids in retaining customers but also in optimizing business strategies for long-term growth.")
     st.sidebar.subheader("Graph options")
 
-    df = pd.read_csv("C:/Degree/Year four/IT41033 - Nature-Inspired Algorithms - Mr. Daminda Herath/Assignment - Mini Project/ChurnX/WA_Fn-UseC_-Telco-Customer-Churn.csv")
+    df = pd.read_csv("https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/b76d7088f60eecd39cc8ccd50f590c8c58ee4ecb/WA_Fn-UseC_-Telco-Customer-Churn.csv")
 
     df['TotalCharges'] = pd.to_numeric(df['TotalCharges'], errors='coerce')
     df = df.dropna(subset=['TotalCharges'])
