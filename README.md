@@ -17,26 +17,26 @@ This section focuses on cleaning the data by removing inconsistencies or errors 
 - Responsible Collaborator: [N. Abisha](https://github.com/Abishanavam)
 - Contact: itbin-2110-0074@horizoncampus.edu.lk
 
-## 3. Data Preprocessing (Part II):
+## [3. Data Preprocessing (Part II)](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/2f691cb3a6da9e1351599186558749eaa37713b0/Data_Preprocessing(Part%20II).ipynb):
 This section continues data preprocessing by selecting attribute subsets, performing numerosity reduction (sampling or modeling), and transforming the data into a suitable format for analysis. The steps include normalization, feature selection, feature engineering, discretization, and concept hierarchy generation.
 
 - Responsible Collaborator: [T. F. Fathima](https://github.com/fathimatfaiz)
 - Contact: itbin-2110-0031@horizoncampus.edu.lk
 
-## 4. Data Mining:
+## 4. [Data Mining](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/2f691cb3a6da9e1351599186558749eaa37713b0/Data_Mining.ipynb):
 This section involves applying data mining methods/tasks and evaluating the resulting models/patterns. It includes experimenting with different parameter settings and multiple alternative methods, improving preprocessing and feature generation, and increasing the amount or quality of training data.
 
 - Responsible Collaborator: [H. M. F. Asma](https://github.com/AsmaFathi123)
 - Contact: itbin-2110-0013@horizoncampus.edu.lk
 
 ## 5. Evaluation and Interpretation:
-This section presents the findings of the analysis and validates the performance and reliability of the models. It covers performance metrics, cross-validation, model selection, hyperparameter tuning, and addressing overfitting and underfitting issues.
+This section presents the analysis findings and validates the models' performance and reliability. It covers performance metrics, cross-validation, model selection, hyperparameter tuning, and addressing overfitting and underfitting issues.
 
 - Responsible Collaborator: [G. Kishon](https://github.com/kishon45229)
 - Contact: itbin-2110-0054@horizoncampus.edu.lk
 
 ## Deployment:
-We have deployed our project as ChurnX on Streamlit Cloud, where you can interact with the application and explore its features. Access it [here]().
+We have deployed our project as ChurnX on Streamlit Cloud, where you can interact with the application and explore its features. Access it [here](https://churnx.streamlit.app/).
    
 ## Contributing:
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
