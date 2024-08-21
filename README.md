@@ -29,7 +29,7 @@ This section involves applying data mining methods/tasks and evaluating the resu
 - Responsible Collaborator: [H. M. F. Asma](https://github.com/AsmaFathi123)
 - Contact: itbin-2110-0013@horizoncampus.edu.lk
 
-## 5. Evaluation and Interpretation:
+## 5. [Evaluation and Interpretation](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/9e6f862bbe863c0ab6607d4ffb85e485530dc2fa/Evaluation_and_Interpretation.ipynb):
 This section presents the analysis findings and validates the models' performance and reliability. It covers performance metrics, cross-validation, model selection, hyperparameter tuning, and addressing overfitting and underfitting issues.
 
 - Responsible Collaborator: [G. Kishon](https://github.com/kishon45229)
