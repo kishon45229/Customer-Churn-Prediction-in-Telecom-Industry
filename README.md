@@ -23,13 +23,13 @@ This section continues data preprocessing by selecting attribute subsets, perfor
 - Responsible Collaborator: [T. F. Fathima](https://github.com/fathimatfaiz)
 - Contact: itbin-2110-0031@horizoncampus.edu.lk
 
-## 4. [Data Mining](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/2f691cb3a6da9e1351599186558749eaa37713b0/Data_Mining.ipynb):
+## [4. Data Mining](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/2f691cb3a6da9e1351599186558749eaa37713b0/Data_Mining.ipynb):
 This section involves applying data mining methods/tasks and evaluating the resulting models/patterns. It includes experimenting with different parameter settings and multiple alternative methods, improving preprocessing and feature generation, and increasing the amount or quality of training data.
 
 - Responsible Collaborator: [H. M. F. Asma](https://github.com/AsmaFathi123)
 - Contact: itbin-2110-0013@horizoncampus.edu.lk
 
-## 5. [Evaluation and Interpretation](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/9e6f862bbe863c0ab6607d4ffb85e485530dc2fa/Evaluation_and_Interpretation.ipynb):
+## [5. Evaluation and Interpretation](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/9e6f862bbe863c0ab6607d4ffb85e485530dc2fa/Evaluation_and_Interpretation.ipynb):
 This section presents the analysis findings and validates the models' performance and reliability. It covers performance metrics, cross-validation, model selection, hyperparameter tuning, and addressing overfitting and underfitting issues.
 
 - Responsible Collaborator: [G. Kishon](https://github.com/kishon45229)
