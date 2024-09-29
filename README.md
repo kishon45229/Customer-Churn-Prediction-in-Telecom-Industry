@@ -4,14 +4,14 @@ Customer retention is critical for service providers. Predicting churn allows co
 
 This project involves a comprehensive data analysis process divided into five main sections. Each section is managed by a specific collaborator responsible for its successful execution. Below is a detailed explanation of each section along with the respective collaborator.
 
-## [1. Data Understanding](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/470c41c3fd2f3255b1150d0ce4d4e002d021d187/Understanding_of_Data.ipynb):
+## [1. Data Understanding](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/Understanding_of_Data.ipynb):
 
 This section involves gathering data from reliable sources and exploring it to get an initial understanding. For this project, we took the [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) dataset from Kaggle. The steps include calculating basic summarization statistics, visualizing the data, and identifying data problems such as outliers, missing data, and duplicate records.
 
 - Responsible Collaborator: [F. Mulhima](https://github.com/Mulhima101) 
 - Contact: itbin-2110-0063@horizoncampus.edu.lk
 
-## [2. Data Preprocessing (Part I)](https://github.com/kishon45229/Customer-Churn-Prediction-in-Telecom-Industry/blob/1021d535b6500c37a7cd66779c81dac993264178/Data_Preprocessing_(Part_I).ipynb):
+## [2. Data Preprocessing (Part I)]():
 This section focuses on cleaning the data by removing inconsistencies or errors and handling missing values. The steps include binning, smoothing, regression, clustering, and dimensionality reduction.
 
 - Responsible Collaborator: [N. Abisha](https://github.com/Abishanavam)
