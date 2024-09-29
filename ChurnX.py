@@ -8,7 +8,7 @@ st.set_page_config(page_title="Telecom Churn Prediction", page_icon="📊")
 st.header(":red[ChurnX]", divider='rainbow')
 st.subheader("Your Telecom Churn Prediction App")
 st.write("""
-    Welcome to the **ChrunX App**! 
+    Welcome to the **ChurnX App**! 
     Use this tool to predict whether a customer is likely to churn based on key attributes. 
     Just enter the customer's details below and click 'Predict'.
 """)
